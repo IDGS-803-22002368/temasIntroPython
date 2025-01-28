@@ -1,0 +1,5 @@
+Perro : Dog
+Gato : Cat
+Semilla : Seed
+Palabra : Word
+Rojo : Red
